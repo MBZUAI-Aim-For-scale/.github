@@ -1,10 +1,6 @@
 # 🌍 MBZUAI AIM For Scale
 
-**AI for Climate and Forecasting Research Group**
-
-We are a research lab at **MBZUAI** focused on advancing AI applications for weather, climate prediction, and sustainable systems.  
-Our projects explore **AI-driven forecasting**, **climate data science**, and **responsible AI for environmental resilience**.
-
+Aim for Scale is committed to scaling cost-effective innovations that improve the livelihoods of farmers in low- and middle-income countries. Our training program brings together meteorologists, agricultural specialists, and AI researchers to explore how recent advances in artificial intelligence are creating new opportunities in medium-range to subseasonal forecasts for agricultural applications.
 ---
 
 ### 🔬 Featured Projects
