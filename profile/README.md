@@ -4,7 +4,6 @@ Aim for Scale is committed to scaling cost-effective innovations that improve th
 ---
 
 ### 🔬 Featured Projects
-- [**ai4farmcast**](https://github.com/MBZUAI-Aim-For-scale/ai4farmcast) — AI-driven weather and agriculture forecasting platform.
 - [**training-program**](https://github.com/MBZUAI-Aim-For-scale/training-program) — AI training and capacity building materials.
 
 ---
