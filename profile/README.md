@@ -17,5 +17,4 @@ Aim for Scale is committed to scaling cost-effective innovations that improve th
 
 ### 🌐 Learn More
 📘 [Website](https://ai4farmcast.ai)  
-📧 aim4scale@gmail.com  
 🏫 Abu Dhabi, UAE
